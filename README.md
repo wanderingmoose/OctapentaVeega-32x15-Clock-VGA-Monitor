@@ -1,4 +1,5 @@
-# Octapentaveega clock and other info using Arduino Nano
+# Octapentaveega module and Arduino Nano 
+## xtra Large Digit Clock
 Simple clock using a old vga monitor and Arduino Nano with a DS1307/DS18B20 module.
 Also using a relay to turn on the monitor and off the monitor outside work hours.
 This is a example of using the full display and doing multiple things.
